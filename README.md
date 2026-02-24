@@ -112,7 +112,8 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 <img width="403" height="168" alt="image" src="https://github.com/user-attachments/assets/41a256e1-8f26-4e9b-a8f0-247bb80369a5" />
 
 ### New Sample Prediction
-<img width="446" height="699" alt="image" src="https://github.com/user-attachments/assets/61c91dd9-2415-40c2-86bc-fa800633312a" />
+<img width="378" height="850" alt="image" src="https://github.com/user-attachments/assets/34f59556-412e-46e5-b055-15dd5fc174fb" />
+
 
 
 ## RESULT
